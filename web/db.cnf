@@ -1,0 +1,5 @@
+[client]
+database = verification
+user = verification_admin
+password = wuHzkARTZ79RLxM
+default-character-set = utf8

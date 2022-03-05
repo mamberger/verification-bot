@@ -1,0 +1,7 @@
+body {
+    background-color: #e8e5e5;
+}   
+
+#content > .container, .container-fluid {
+    padding-top: 2%;
+}
